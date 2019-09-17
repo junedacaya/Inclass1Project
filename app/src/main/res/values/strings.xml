@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Inclass1Project</string>
+    <string name="message1">Hello, this is my first Android APP</string>
+</resources>
