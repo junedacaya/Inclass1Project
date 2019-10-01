@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         final Button button = findViewById(R.id.button);
         final ImageView image = findViewById(R.id.imageView);
         final ProgressBar pbar1 = findViewById(R.id.progressBar);
-
+        
         button.setOnClickListener(new View.OnClickListener() {
 
             public void onClick(View v) {
